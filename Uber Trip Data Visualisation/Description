@@ -1,0 +1,13 @@
+The uber trip data was requested from uber through personal Uber account.
+The uber trips are visualised from 2016-2020.
+
+
+The following insights are drawn from the data after processing the data:
+1. Total trips done over the years
+2. Total trips that were completed or cancelled
+3. Product type mostly chosen for travelling
+4. Average fare, distance, amount and time spent on rides
+5. Weekdays having the highest average fares per km ridden
+6. Identify longest/shortest and more expensive/cheaper ride
+7. Average lead time before begining a trip
+8. Maximum Dropoffs Location
