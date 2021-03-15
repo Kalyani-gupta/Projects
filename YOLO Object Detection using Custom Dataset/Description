@@ -1,7 +1,7 @@
 
 Stanford Dogs Dataset
 
-The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. Contents of this dataset:
+The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world.Contents of this dataset:
 
 Number of categories: 120
 Number of images: 20,580
