@@ -1,1 +1,13 @@
 
+Stanford Dogs Dataset
+
+The Stanford Dogs dataset contains images of 120 breeds of dogs from around the world. This dataset has been built using images and annotation from ImageNet for the task of fine-grained image categorization. Contents of this dataset:
+
+Number of categories: 120
+Number of images: 20,580
+Annotations: Class labels, Bounding boxes
+
+The Annotations label was in Pascal VOC format.So to make it compatiple to YOLO format i.e txt file for each label along with bounding box dimanesions, uisng python script pascal voc format was converted to yolo format.
+
+
+For training of YOLO, darknet framework was used and training was implemented in Google Colab for easy use of GPU. The changes were made in the cfg file of yolo according to the requirement of the custom dataset.
